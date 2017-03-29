@@ -73,3 +73,5 @@
 //    Hide toolbar Animation
 //    http://stackoverflow.com/questions/19765938/show-and-hide-a-view-with-a-slide-up-down-animation
 //}
+//Image Animation
+//https://www.bignerdranch.com/blog/frame-animations-in-android/
