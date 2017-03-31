@@ -75,3 +75,7 @@
 //}
 //Image Animation
 //https://www.bignerdranch.com/blog/frame-animations-in-android/
+
+
+// RecyclerView Best Tutorials
+//https://www.sitepoint.com/mastering-complex-lists-with-the-android-recyclerview/
