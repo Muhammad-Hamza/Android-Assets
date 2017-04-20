@@ -83,6 +83,6 @@
 
 //Event Bus Library to Communicate fragment and activity
 //https://github.com/greenrobot/EventBus
-
+https://www.youtube.com/watch?v=C8lUdPVSzDk
 //Sectioned RecyclerView
 //https://github.com/luizgrp/SectionedRecyclerViewAdapter/blob/master/app/src/main/java/io/github/luizgrp/sectionedrecyclerviewadapter/demo/Example5Fragment.java
