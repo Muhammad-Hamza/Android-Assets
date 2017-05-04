@@ -80,7 +80,19 @@
 // RecyclerView Best Tutorials
 //https://www.sitepoint.com/mastering-complex-lists-with-the-android-recyclerview/
 
-
+//Attach RecyclerView to adaptet to use recyclerview in adapter
+//@Override
+//public void onAttachedToRecyclerView(RecyclerView recyclerView) {
+//        super.onAttachedToRecyclerView(recyclerView);
+//        mRecylerView = recyclerView;
+//
+//
+//        //Assuming the layout manager that is attached to the recyler view will always be Linear Layout Manager
+//        if (mRecylerView.getLayoutManager() instanceof LinearLayoutManager) {
+//        mLinearLayoutManager = ((LinearLayoutManager)mRecylerView.getLayoutManager());
+//        } else {
+//        Logger.d(TAG, "Layout manager is supposed to be Linear Layout Manager");
+//        }
 //Event Bus Library to Communicate fragment and activity
 //https://github.com/greenrobot/EventBus
 https://www.youtube.com/watch?v=C8lUdPVSzDk
